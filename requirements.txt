@@ -1,1 +1,3 @@
 Flask==0.12.2
+pyelftools==0.24
+cxxfilt==0.1.0
